@@ -1,10 +1,10 @@
 {
-  "version_name": "1.1",
+  "version_name": "1.5",
   "force": "off",
   "update_title": "📱 تحديث جديد",
   "update_message": "تم إصدار تحديث جديد للتطبيق.\n\n✅ تحسينات في الأداء\n✅ إصلاح بعض الأخطاء",
   "update_link": "https://example.com/app.apk",
-  "announcement_active": "true",
+  "announcement_active": "on",
   "announcement_title": "📢 إعلان مهم",
-  "announcement_message": "مرحباً بكم في التطبيق!"
+  "announcement_message": "مرحباً بكم في التطبيق الجديد!"
 }
