@@ -4,7 +4,7 @@
   "update_title": "📱 تحديث جديد",
   "update_message": "تم إصدار تحديث جديد للتطبيق.\n\n✅ تحسينات في الأداء\n✅ إصلاح بعض الأخطاء",
   "update_link": "https://example.com/app.apk",
-  "announcement_active": "off",
+  "announcement_active": "true",
   "announcement_title": "📢 إعلان مهم",
   "announcement_message": "مرحباً بكم في التطبيق الجديد!"
 }
